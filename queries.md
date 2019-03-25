@@ -5,8 +5,8 @@ graph-algorithms-algo-3.5.3.3.jar
 
 ## Estructura del DataSet
 |Nodos totales|Aristas totales|Diametro|max in deg|min in deg|max out deg|min out deg|Centralidad|Rango de Articulo|
-|---|---|---|---|---|---|---|---|---|---|
-|||   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |
 
 **Nodos totales**: Número de nodos en la gráfica<br>
 **Aristas totales**: Número de aristas en la gráfica<br>

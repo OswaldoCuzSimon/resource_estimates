@@ -1,4 +1,4 @@
-# Calcular capacidad de equipos estimada
+# Capacidad de equipos estimada
 
 Propuesta para recolectar datos históricos sobre los proyectos que se han desarrollando para poder predecir cuantos recursos se necesitaran para futuros desarrollos de software.
 
@@ -18,7 +18,7 @@ El histórico que se planea obtener por cada proyecto es un mapa de actividades<
 
 
 ## Transformacion del dataset
-Para Transformar un mapa de activades a un vector dentro del dataset se hace con ayuda de Teoria de Graficas.
+Para transformar un mapa de activades a un vector dentro del dataset se hace con ayuda de Teoria de Graficas.
 cada entrada del vector es una propiedad de la gráfica
 
 Ejemplo del dataset:
