@@ -24,8 +24,8 @@ cada entrada del vector es una propiedad de la gráfica
 Ejemplo del dataset:
 
 |Nodos totales|Aristas totales|Diametro|max in deg|min in deg|max out deg|min out deg|Centralidad|Rango de Articulo|
-|---|---|---|---|---|---|---|---|---|---|
-|||   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |
 
 **Nodos totales**: Número de nodos en la gráfica<br>
 **Aristas totales**: Número de aristas en la gráfica<br>
